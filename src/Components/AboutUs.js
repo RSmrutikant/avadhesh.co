@@ -27,7 +27,7 @@ const AboutUs = () => {
                   <p className="section-9-text">
                     Work with us - and transform your career while transforming
                     lives. We believe that every individual has a unique story
-                    to tell and we are passionate about capturing it. We believe that every individual has a unique story to tell and we are passionate about capturing it. Our team of experienced photographers will We believe in the transformative potential of every individual and team member. Our goal is to create a workplace where individuals can grow professionally We believe that every individual has a unique story to tell and we are passionate about capturing it through our work.
+                    to tell and we are passionate about capturing it. We believe that every individual has a unique story to tell and we are passionate about capturing it. Our team of experienced photographers will We believe in the transformative potential of every individual and team member. Our goal is to create a workplace where individuals can grow professionally We believe that every individual has a unique to tell and we are passionate about capturing it through our work.
                   </p>
                 </div>
               </div>
