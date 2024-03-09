@@ -22,9 +22,9 @@ const Careers = () => {
                     to tell and we are passionate about capturing it.
                   </p>
                   <div className="section-6-button">
-                    <a class="button-fancy -white" href="#?">
-                      <span class="arrow"></span>
-                      <span class="text">Explore opportunities</span>
+                    <a className="button-fancy -white" href="#?">
+                      <span className="arrow"></span>
+                      <span className="text">Explore opportunities</span>
                     </a>
                   </div>
                 </div>

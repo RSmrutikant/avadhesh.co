@@ -25,17 +25,15 @@ const ReadyToBanner = () => {
                 <div className="section-8-content-wrapper">
                   {/* <p className="tag">CAREERS</p> */}
                   <h1 className="section-8-heading">
-                    Explore your Passion. Create lasting Change.
+                    Want to know more ? Let's talk about your next move!
                   </h1>
                   <p className="section-8-text">
-                    Work with us - and transform your career while transforming
-                    lives. We believe that every individual has a unique story
-                    to tell and we are passionate about capturing it.
+                    Learn more about  our company culture and how we can help you grow professionally.
                   </p>
                   <div className="section-8-button">
-                    <a class="button-fancy -white" href="#?">
-                      <span class="arrow"></span>
-                      <span class="text">Explore opportunities</span>
+                    <a className="button-fancy -white" href="#?">
+                      <span className="arrow"></span>
+                      <span className="text">Request Info Now</span>
                     </a>
                   </div>
                 </div>

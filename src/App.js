@@ -4,14 +4,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Fragment } from "react";
 import { IntroBanner } from "./Components/IntroBanner";
 import NavBar from "./Components/Nav";
-import SliderPanel from "./Components/SliderPanel";
 import InsightBlog from "./Components/InsightBlog";
 import Partners from "./Components/Partners";
 import Careers from "./Components/Careers";
 import FeaturedCards from "./Components/FeaturedCards";
 import ReadyToBanner from "./Components/ReadyToBanner";
 import Footer from "./Components/Footer";
-import FirstBanner from "./Components/SectionUnknown";
+import AboutUs from "./Components/AboutUs";
 
 function App() {
   return (
@@ -19,8 +18,7 @@ function App() {
       <Fragment>
         <NavBar />
         <IntroBanner />
-        <SliderPanel />
-        <FirstBanner/>
+        <AboutUs/>
         <InsightBlog />
         <Partners/>
         <Careers/>

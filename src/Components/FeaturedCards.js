@@ -16,7 +16,7 @@ const FeaturedCards = () => {
                 <div className="featured-content-wrapper">
                   <div className="image-wrapper">
                     <LazyLoadImage
-                      src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600"
+                      src="https://plus.unsplash.com/premium_photo-1671308539073-ebf8985a6a11?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGFic3RyYWN0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D"
                       alt="img"
                     />
                   </div>
@@ -37,7 +37,7 @@ const FeaturedCards = () => {
                 <div className="featured-content-wrapper">
                   <div className="image-wrapper">
                     <LazyLoadImage
-                      src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600"
+                      src="https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGFic3RyYWN0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D"
                       alt="img"
                     />
                   </div>
@@ -58,7 +58,7 @@ const FeaturedCards = () => {
                 <div className="featured-content-wrapper">
                   <div className="image-wrapper">
                     <LazyLoadImage
-                      src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600"
+                      src="https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGFic3RyYWN0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D"
                       alt="img"
                     />
                   </div>

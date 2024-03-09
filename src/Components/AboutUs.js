@@ -1,19 +1,19 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { LazyLoadImage } from "react-lazy-load-image-component";
+import Images from "../Data/imageSet";
 
-const FirstBanner = () => {
+const AboutUs = () => {
   return (
     <div>
-      <div className="section-9 first-banner">
+      <div className="section-9 first-banner" id="section9">
         <Container>
           <Row>
           <Col xs={12} md={6} xl={6}>
               <div className="section-9-left">
                 <LazyLoadImage
                   className="banner-img"
-                  src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600"
-                  placeholderSrc="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src={Images.Section2Bg}
                   effect="blur"
                 />
               </div>
@@ -40,4 +40,4 @@ const FirstBanner = () => {
   );
 };
 
-export default FirstBanner;
+export default AboutUs;

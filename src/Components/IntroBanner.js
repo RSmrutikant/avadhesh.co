@@ -23,7 +23,7 @@ export const IntroBanner = () => {
   return (
     <section
       className="section-1 banner">
-      <Row>
+      <Row className="m-0">
         <Col xs={{ span: 12, order: 2 }} md={12} xl={{ span: 6, order: 1 }}>
           <div className="section-1-left">
             <div className="content-wrapper">
@@ -45,7 +45,7 @@ export const IntroBanner = () => {
             </div>
           </div>
         </Col>
-        <Col xs={{ span: 12, order: 1 }} md={12} xl={{ span: 6, order: 2 }}>
+        <Col xs={{ span: 12, order: 1 }} md={12} xl={{ span: 6, order: 2 }} className="p-0">
           <div className="section-1-right">
             <video
               ref={videoRef}
@@ -70,6 +70,12 @@ export const IntroBanner = () => {
           </div>
         </Col>
       </Row>
+      <div className="anim-container">
+	<div className="field">
+		<a href="#section9"><div className="scroll"></div></a>
+	</div>
+</div>
     </section>
+    
   );
 };
