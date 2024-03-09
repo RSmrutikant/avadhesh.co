@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/avadhesh.co/static/css/main.cbe4e83e.css",
+    "main.js": "/avadhesh.co/static/js/main.1996296c.js",
+    "static/js/453.468ae4c8.chunk.js": "/avadhesh.co/static/js/453.468ae4c8.chunk.js",
+    "static/media/section-2-bg.jpg": "/avadhesh.co/static/media/section-2-bg.d1f115a759766e7aa379.jpg",
+    "static/media/insight-three.png": "/avadhesh.co/static/media/insight-three.93ccecc476e469a2d75a.png",
+    "static/media/insight-one.png": "/avadhesh.co/static/media/insight-one.27531aea6b9165c1ee00.png",
+    "static/media/insight-two.png": "/avadhesh.co/static/media/insight-two.c1f46247cfeec22c2b0d.png",
+    "static/media/final-banner.svg": "/avadhesh.co/static/media/final-banner.5fed457dc4282e9ebef7dd8abe7094b5.svg",
+    "static/media/logo.webp": "/avadhesh.co/static/media/logo.8501c664bceb7ce9f2bd.webp",
+    "index.html": "/avadhesh.co/index.html",
+    "main.cbe4e83e.css.map": "/avadhesh.co/static/css/main.cbe4e83e.css.map",
+    "main.1996296c.js.map": "/avadhesh.co/static/js/main.1996296c.js.map",
+    "453.468ae4c8.chunk.js.map": "/avadhesh.co/static/js/453.468ae4c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe4e83e.css",
+    "static/js/main.1996296c.js"
+  ]
+}
